@@ -1,0 +1,15 @@
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\pooTermometroFarenheit\pooTermometroFarenheit\bin\Debug\net6.0\pooTermometro.exe
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\pooTermometroFarenheit\pooTermometroFarenheit\bin\Debug\net6.0\pooTermometro.deps.json
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\pooTermometroFarenheit\pooTermometroFarenheit\bin\Debug\net6.0\pooTermometro.runtimeconfig.json
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\pooTermometroFarenheit\pooTermometroFarenheit\bin\Debug\net6.0\pooTermometro.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\pooTermometroFarenheit\pooTermometroFarenheit\bin\Debug\net6.0\ref\pooTermometro.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\pooTermometroFarenheit\pooTermometroFarenheit\bin\Debug\net6.0\pooTermometro.pdb
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\pooTermometroFarenheit\pooTermometroFarenheit\obj\Debug\net6.0\pooTermometro.csproj.AssemblyReference.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\pooTermometroFarenheit\pooTermometroFarenheit\obj\Debug\net6.0\pooTermometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\pooTermometroFarenheit\pooTermometroFarenheit\obj\Debug\net6.0\pooTermometro.AssemblyInfoInputs.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\pooTermometroFarenheit\pooTermometroFarenheit\obj\Debug\net6.0\pooTermometro.AssemblyInfo.cs
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\pooTermometroFarenheit\pooTermometroFarenheit\obj\Debug\net6.0\pooTermometro.csproj.CoreCompileInputs.cache
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\pooTermometroFarenheit\pooTermometroFarenheit\obj\Debug\net6.0\pooTermometro.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\pooTermometroFarenheit\pooTermometroFarenheit\obj\Debug\net6.0\ref\pooTermometro.dll
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\pooTermometroFarenheit\pooTermometroFarenheit\obj\Debug\net6.0\pooTermometro.pdb
+C:\Users\jhou1\OneDrive\Área de Trabalho\Amanda\Ex POO C#\pooTermometroFarenheit\pooTermometroFarenheit\obj\Debug\net6.0\pooTermometro.genruntimeconfig.cache
